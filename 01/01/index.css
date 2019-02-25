@@ -1,0 +1,63 @@
+.col-lg-3{
+
+	background-color: #F5F5F5;
+
+}
+
+.col-lg-9{
+	background-color: #3d3e42;
+}
+
+.background-image-1{
+
+   	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.rounded-circle{
+
+	border-radius   : 50%;
+	width           : 200px;
+	height          : 200px;
+	background-size : cover;		
+	/*position        : relative;*/
+
+
+	/*top           :-95px;*/
+}
+
+.img-fluid{
+  
+  width: 100%;
+}
+
+.profile-pic-name{
+	position        : relative;
+	top           : -95px;
+}
+
+
+
+
+.detials{
+	position        : relative;
+	top             : -250px;
+}
+
+.college,.college-detials{
+	color           : white;
+	
+}
+
+
+.college-dim{
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+
+.container-fluid{
+	padding-right: 0px;
+	padding-left: 0px;
+}
